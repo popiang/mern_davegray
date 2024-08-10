@@ -131,3 +131,4 @@
 	 - send res.json(reply)
 4. require usersController in userRoutes file and add the respective controller in all the routes
 5. test
+6. do the above steps for Note 
